@@ -7,6 +7,7 @@ The project includes data analysis, preprocessing, model comparison, evaluation,
 ## 🚀 Live Demo
 
 The Streamlit deployment link will be added here after deployment.
+https://rfqsqcvn8p9aaerwrgawse.streamlit.app/
 
 ## 📌 Project Overview
 
